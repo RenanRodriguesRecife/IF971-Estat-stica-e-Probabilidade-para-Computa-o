@@ -1,1 +1,1 @@
-# IF971-Estat-stica-e-Probabilidade-para-Computa-o
+# IF971-Estatística e Probabilidade para Computação
